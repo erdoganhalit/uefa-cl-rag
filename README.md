@@ -17,8 +17,8 @@ For easy access (and personal interest) the source document used for this study 
 
 ### To reproduce the results
 
-**Clone the repo**
-`git clone ddddd`
-**After creating your virtual environment (recommended), install the dependencies**
-`git install requirements.txt`
+**Clone the repo** \
+`git clone https://github.com/erdoganhalit/uefa-cl-rag/` \
+**After creating your virtual environment (recommended), install the dependencies** \
+`git install requirements.txt` \
 **Run the notebook**
